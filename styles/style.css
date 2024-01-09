@@ -1,5 +1,42 @@
-.banner-imag{
-    width: 320px;
-    height: 600px;
-    flex-shrink: 0;
+body{
+    font-family: 'Lato', sans-serif;
+}  
+
+.banner-image{
+width:1250px;
+height:600px;
+border-radius:30px;
+}
+
+.offer{
+color:red;
+text-align: center;
+font-family: vernada;
+font-size: 100px;
+font-style: normal;
+font-weight: 900;
+}
+
+.offer-text{
+color: #C70039;
+text-align: center;
+font-family: lato;
+font-size: 25px;
+font-style: oblique;
+font-weight: 600;
+}
+
+.offer-type{
+color: Earth blue;
+text-align: center;
+font-family: Inter;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+}
+
+.new-year{
+width: 802.9px;
+height: 500px;
+
 }
