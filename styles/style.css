@@ -1,0 +1,5 @@
+.banner-imag{
+    width: 320px;
+    height: 600px;
+    flex-shrink: 0;
+}
